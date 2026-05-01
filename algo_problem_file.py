@@ -87,6 +87,6 @@ if __name__ == "__main__":
     md_file = "PROBLEMS.md"
     
     # 파일을 생성할 경로 입력
-    save_path = "./본인폴더/주차" 
+    save_path = ("./김현우/week03")
     
     create_files_from_this_week(md_file, save_path)
