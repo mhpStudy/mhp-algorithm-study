@@ -43,7 +43,7 @@
 </details>
 
 
-<details id="this-week" open>
+<details>
 <summary> 5월 1주차 (26.05.01 ~ 26.05.08) </summary>
 
 | 난이도   |    번호 | 문제                                                                                 | 설명            |
@@ -58,5 +58,24 @@
 | Lv. 1 | 12950 | [행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950)          | 연습문제          |
 | Lv. 1 | 12969 | [직사각형 별찍기](https://school.programmers.co.kr/learn/courses/30/lessons/12969)        | 연습문제          |
 | Lv. 1 | 12906 | [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)       | 스택/큐          |
+
+</details>
+
+
+<details id="this-week" open>
+<summary> 5월 3주차 (26.05.15 ~ 26.05.22) </summary>
+
+| 난이도   |     번호 | 문제                                                                                   | 설명                          |
+|:------|-------:|:-------------------------------------------------------------------------------------|:----------------------------|
+| Lv. 2 |  12939 | [최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)          | 연습문제                        |
+| Lv. 2 |  12951 | [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951) | 연습문제                        |
+| Lv. 1 |  12940 | [최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940)      | 연습문제                        |
+| Lv. 2 |  12941 | [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)           | 연습문제                        |
+| Lv. 1 | 147355 | [크기가 작은 부분 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355)    | 연습문제                        |
+| Lv. 2 |  12909 | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)            | 스택/큐                        |
+| Lv. 1 |  12982 | [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)                | Summer/Winter Coding(~2018) |
+| Lv. 2 |  70129 | [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)        | 월간 코드 챌린지 시즌1               |
+| Lv. 2 | 273709 | [조건에 맞는 아이템들의 가격의 총합 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/273709) | SUM, MAX, MIN |
+| Lv. 1 | 132203 | [흉부외과 또는 일반외과 의사 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132203) | SELECT        |
 
 </details>
