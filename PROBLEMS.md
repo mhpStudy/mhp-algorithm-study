@@ -62,7 +62,7 @@
 </details>
 
 
-<details id="this-week" open>
+<details>
 <summary> 5월 3주차 (26.05.15 ~ 26.05.22) </summary>
 
 | 난이도   |     번호 | 문제                                                                                   | 설명                          |
@@ -77,5 +77,25 @@
 | Lv. 2 |  70129 | [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)        | 월간 코드 챌린지 시즌1               |
 | Lv. 2 | 273709 | [조건에 맞는 아이템들의 가격의 총합 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/273709) | SUM, MAX, MIN |
 | Lv. 1 | 132203 | [흉부외과 또는 일반외과 의사 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132203) | SELECT        |
+
+</details>
+
+
+<details id="this-week" open>
+<summary> 5월 4주차 (26.05.22 ~ 26.05.29) </summary>
+
+| 난이도   |     번호 | 문제                                                                            | 설명   |
+|:------|-------:|:------------------------------------------------------------------------------|:-----|
+| Lv. 1 | 131705 | [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705)       | 연습문제 |
+| Lv. 1 |  12930 | [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930) | 연습문제 |
+| Lv. 1 | 68935 | [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935)  | 월간 코드 챌린지 시즌1 |
+| Lv. 2 | 12924 | [숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)   | 연습문제          |
+| Lv. 1 | 86491 | [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)   | 완전탐색          |
+| Lv. 2 | 12911 | [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)  | 연습문제          |
+| Lv. 2 | 12945 | [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)   | 연습문제          |
+| Lv. 2 | 12973 | [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973) | 2017 팁스타운     |
+| Lv. 1 |  59405 | [상위 n개 레코드](https://school.programmers.co.kr/learn/courses/30/lessons/59405)                | SELECT        |
+| Lv. 1 | 131114 | [경기도에 위치한 식품창고 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131114)   | IS NULL       |
+
 
 </details>
