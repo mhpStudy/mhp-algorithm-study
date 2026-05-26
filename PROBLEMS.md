@@ -81,7 +81,7 @@
 </details>
 
 
-<details id="this-week" open>
+<details>
 <summary> [week05] 5월 4주차 (26.05.22 ~ 26.05.29) </summary>
 
 | 난이도   |     번호 | 문제                                                                            | 설명   |
@@ -98,4 +98,23 @@
 | Lv. 1 | 131114 | [경기도에 위치한 식품창고 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131114)   | IS NULL       |
 
 
+</details>
+
+
+<details id="this-week" open>
+<summary> [week06] 6월 1주차 (26.05.29 ~ 26.06.05) </summary>
+
+| 난이도   |     번호 | 문제                                                                               | 설명                 |
+|:------|-------:|:---------------------------------------------------------------------------------|:-------------------|
+| Lv. 1 | 142086 | [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086) | 연습문제               |
+| Lv. 1 |  12926 | [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)         | 연습문제               |
+| Lv. 2 |  42842 | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)            | 완전탐색               |
+| Lv. 1 |  68644 | [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644)   | 월간 코드 챌린지 시즌1      |
+| Lv. 1 | 134240 | [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)    | 연습문제               |
+| Lv. 1 |  42748 | [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)          | 정렬                 |
+| Lv. 1 |  81301 | [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)   | 2021 카카오 채용연계형 인턴십 |
+| Lv. 1 | 132267 | [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267)        | 연습문제               |
+| Lv. 2 | 131529 | [카테고리 별 상품 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131529) | String, Date |
+| Lv. 1 |  59036 | [아픈 동물 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59036)          | SELECT       |
+ 
 </details>
