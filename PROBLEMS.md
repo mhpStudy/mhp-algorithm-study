@@ -101,7 +101,7 @@
 </details>
 
 
-<details id="this-week" open>
+<details>
 <summary> [week06] 6월 1주차 (26.05.29 ~ 26.06.05) </summary>
 
 | 난이도   |     번호 | 문제                                                                               | 설명                 |
@@ -118,3 +118,17 @@
 | Lv. 1 |  59036 | [아픈 동물 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59036)          | SELECT       |
  
 </details>
+
+
+<details id="this-week" open>
+<summary> [week07] 6월 2주차 (26.06.05 ~ 26.06.12) </summary>
+
+| 난이도   |     번호 | 문제                                                                                   | 설명           |
+|:------|-------:|:-------------------------------------------------------------------------------------|:-------------|
+| Lv. 2 | 468379 | [선인장 숨기기](https://school.programmers.co.kr/learn/courses/30/lessons/468379) | 2025 카카오 하반기 2차 |
+| Lv. 3 | 49189 | [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189) | 그래프  |
+| Lv. 2 | 59041 | [동명 동물 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59041)         | GROUP BY     |
+| Lv. 2 | 59047 | [이름에 el이 들어가는 동물 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59047) | String, Date |
+
+</details>
+
