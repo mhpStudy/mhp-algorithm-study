@@ -120,7 +120,7 @@
 </details>
 
 
-<details id="this-week" open>
+<details>
 <summary> [week07] 6월 2주차 (26.06.05 ~ 26.06.12) </summary>
 
 | 난이도   |     번호 | 문제                                                                                   | 설명           |
@@ -132,3 +132,12 @@
 
 </details>
 
+<details id="this-week" open>
+<summary> [week08] 6월 3주차 (26.06.12 ~ 26.06.19) </summary>
+
+| 난이도   |    번호 | 문제                                                                                       | 설명           |
+|:------|------:|:-----------------------------------------------------------------------------------------|:-------------|
+| Lv. 2 | 59410 | [NULL 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/59410)             | IS NULL      |
+| Lv. 2 | 59414 | [DATETIME에서 DATE로 형 변환](https://school.programmers.co.kr/learn/courses/30/lessons/59414) | String, Date |
+
+</details>
