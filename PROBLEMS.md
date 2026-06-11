@@ -137,7 +137,10 @@
 
 | 난이도   |    번호 | 문제                                                                                       | 설명           |
 |:------|------:|:-----------------------------------------------------------------------------------------|:-------------|
+| Lv. 3 | 49191 | [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191) | 그래프  |
+| Lv. 2 | 250135 | [[PCCP 기출문제] 3번 / 아날로그 시계](https://school.programmers.co.kr/learn/courses/30/lessons/250135) | PCCP 기출문제 |
 | Lv. 2 | 59410 | [NULL 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/59410)             | IS NULL      |
 | Lv. 2 | 59414 | [DATETIME에서 DATE로 형 변환](https://school.programmers.co.kr/learn/courses/30/lessons/59414) | String, Date |
+
 
 </details>
