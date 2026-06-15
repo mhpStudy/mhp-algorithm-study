@@ -87,10 +87,6 @@ if __name__ == "__main__":
     md_file = "PROBLEMS.md"
     
     # 파일을 생성할 경로 입력
-<<<<<<< Updated upstream
-    save_path = ("./박효정/week07")
-=======
-    save_path = ("./김현우/week07")
->>>>>>> Stashed changes
+    save_path = ("./작성자/주차")
     
     create_files_from_this_week(md_file, save_path)
