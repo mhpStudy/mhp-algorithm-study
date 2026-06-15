@@ -56,13 +56,17 @@ def create_files_from_this_week(file_path, target_path):
             prob_num = parts[1]
             raw_title_link = parts[2]
             
-            link_match = re.search(r'\[([^\]]+)\]\((https?://[^\)]+)\)', raw_title_link)
+            link_match = re.search(r'\[(.*?)\]\((https?://.*?)\)', raw_title_link)
             
             if link_match:
                 title = link_match.group(1).strip()
                 url = link_match.group(2).strip()
                 
-                clean_title = "".join([c for c in title if c.isalnum() or c in (' ', '_')]).strip().replace(" ", "_")
+                # [수정] 윈도우 파일명 금지 문자 및 특수문자 전면 제거/대체
+                clean_title = re.sub(r'[^a-zA-Z0-9가-힣\s]', '', title)
+                # 공백은 깔끔하게 언더바 하나로 통일 (연속된 공백도 하나로 처리)
+                clean_title = re.sub(r'\s+', '_', clean_title.strip())
+
                 f_name = f"{prob_num}_{clean_title}.py"
                 
                 # [핵심] 지정된 경로와 파일명 결합
