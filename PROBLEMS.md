@@ -136,7 +136,7 @@
 
 </details>
 
-<details id="this-week" open>
+<details>
 <summary> [week09] 6월 4주차 (26.06.19 ~ 26.06.26) </summary>
 
 | 난이도 |   번호 | 문제                                                                                                | 설명                        |
@@ -149,3 +149,14 @@
 | Lv. 1  |  59404 | [여러 기준으로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/59404)           | SELECT                      |
 
 </details>
+
+<details id="this-week" open>
+<summary> [week10] 7월 2주차 (26.07.03 ~ 26.07.10) </summary>
+
+| 난이도 |   번호 | 문제                                                                                                      | 설명                            |
+| :----- | -----: | :-------------------------------------------------------------------------------------------------------- | :------------------------------ |
+| Lv. 3  |  43105 | [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)                            | 동적계획법(Dynamic Programming) |
+| Lv. 1  |  42862 | [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)                                 | 탐욕법(Greedy)                  |
+| Lv. 2  |  42860 | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)                               | 탐욕법(Greedy)                  |
+| Lv. 2  |  59038 | [최솟값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59038)                          | SUM, MAX, MIN                   |
+| Lv. 2  | 131115 | [가격이 제일 비싼 식품의 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131115) | SUM, MAX, MIN                   |
