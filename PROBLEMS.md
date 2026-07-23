@@ -160,17 +160,31 @@
 | Lv. 2  |  42860 | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)                               | 탐욕법(Greedy)                  |
 | Lv. 2  |  59038 | [최솟값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59038)                          | SUM, MAX, MIN                   |
 | Lv. 2  | 131115 | [가격이 제일 비싼 식품의 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131115) | SUM, MAX, MIN                   |
+
 </details>
 
-
-<details id="this-week" open>
+<details>
 <summary> [week11] 7월 4주차 (26.07.17 ~ 26.07.24) </summary>
 
-| 난이도   |     번호 | 문제                                                                                          | 설명            |
-|:------|-------:|:--------------------------------------------------------------------------------------------|:--------------|
-| Lv. 2 | 42586 | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | 스택/큐 |
-| Lv. 2 | 42587 | [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587) | 스택/큐 |
-| Lv. 3 | 43162 | [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | 깊이/너비 우선 탐색(DFS/BFS) |
-| Lv. 2 |  59406 | [동물 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59406)                 | SUM, MAX, MIN |
-| Lv. 2 |  59408 | [중복 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/59408)                  | SUM, MAX, MIN |
+| 난이도 |  번호 | 문제                                                                              | 설명                         |
+| :----- | ----: | :-------------------------------------------------------------------------------- | :--------------------------- |
+| Lv. 2  | 42586 | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)       | 스택/큐                      |
+| Lv. 2  | 42587 | [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)       | 스택/큐                      |
+| Lv. 3  | 43162 | [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)       | 깊이/너비 우선 탐색(DFS/BFS) |
+| Lv. 2  | 59406 | [동물 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59406) | SUM, MAX, MIN                |
+| Lv. 2  | 59408 | [중복 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/59408)  | SUM, MAX, MIN                |
+
+</details>
+
+<details id="this-week" open>
+<summary> [week12] 7월 5주차 (26.07.24 ~ 26.07.24) </summary>
+
+| 난이도 |   번호 | 문제                                                                                               | 설명         |
+| :----- | -----: | :------------------------------------------------------------------------------------------------- | :----------- |
+| Lv. 2  |  42746 | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)                      | 정렬         |
+| Lv. 2  |  42747 | [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)                         | 정렬         |
+| Lv. 3  |  43238 | [입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)                        | 이분탐색     |
+| Lv. 2  |  59409 | [중성화 여부 파악하기](https://school.programmers.co.kr/learn/courses/30/lessons/59409)            | String, Date |
+| Lv. 2  | 132202 | [진료과별 총 예약 횟수 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132202) | GROUP BY     |
+
 </details>
