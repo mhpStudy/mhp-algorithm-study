@@ -176,8 +176,8 @@
 
 </details>
 
-<details id="this-week" open>
-<summary> [week12] 7월 5주차 (26.07.24 ~ 26.07.24) </summary>
+<details>
+<summary> [week12] 7월 5주차 (26.07.24 ~ 26.07.31) </summary>
 
 | 난이도 |   번호 | 문제                                                                                               | 설명         |
 | :----- | -----: | :------------------------------------------------------------------------------------------------- | :----------- |
@@ -186,5 +186,19 @@
 | Lv. 3  |  43238 | [입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)                        | 이분탐색     |
 | Lv. 2  |  59409 | [중성화 여부 파악하기](https://school.programmers.co.kr/learn/courses/30/lessons/59409)            | String, Date |
 | Lv. 2  | 132202 | [진료과별 총 예약 횟수 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132202) | GROUP BY     |
+
+</details>
+
+
+<details id="this-week" open>
+<summary> [week13] 8월 1주차 (26.07.31 ~ 26.08.07) </summary>
+
+| 난이도   |     번호 | 문제                                                                        | 설명   |
+|:------|-------:|:--------------------------------------------------------------------------|:-----|
+| Lv. 2 | 138476 | [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476) | 연습문제 |
+| Lv. 2 | 42626 | [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626) | 힙(Heap) |
+| Lv. 3 | 42898 | [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898) | 동적계획법(Dynamic Programming) |
+| Lv. 2 | 151137 | [자동차 종류 별 특정 옵션이 포함된 자동차 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151137) | GROUP BY      |
+| Lv. 2 |  59040 | [고양이와 개는 몇 마리 있을까](https://school.programmers.co.kr/learn/courses/30/lessons/59040)               | GROUP BY      |
 
 </details>
