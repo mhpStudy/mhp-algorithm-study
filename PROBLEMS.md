@@ -190,7 +190,7 @@
 </details>
 
 
-<details id="this-week" open>
+<details>
 <summary> [week13] 8월 1주차 (26.07.31 ~ 26.08.07) </summary>
 
 | 난이도   |     번호 | 문제                                                                        | 설명   |
@@ -200,5 +200,18 @@
 | Lv. 3 | 42898 | [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898) | 동적계획법(Dynamic Programming) |
 | Lv. 2 | 151137 | [자동차 종류 별 특정 옵션이 포함된 자동차 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151137) | GROUP BY      |
 | Lv. 2 |  59040 | [고양이와 개는 몇 마리 있을까](https://school.programmers.co.kr/learn/courses/30/lessons/59040)               | GROUP BY      |
+
+</details>
+
+<details id="this-week" open>
+<summary> [week14] 8월 2주차 (26.08.07 ~ 26.08.14) </summary>
+
+| 난이도   |    번호 | 문제                                                                       | 설명                   |
+|:------|------:|:-------------------------------------------------------------------------|:---------------------|
+| Lv. 2 |  42885 | [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)              | 탐욕법(Greedy)                 |
+| Lv. 2 | 43165 | [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | 깊이/너비 우선 탐색(DFS/BFS) |
+| Lv. 3 | 43163 | [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163) | 깊이/너비 우선 탐색(DFS/BFS) |
+| Lv. 2 |  59412 | [입양 시각 구하기(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59412)                   | GROUP BY      |
+| Lv. 2 | 144854 | [조건에 맞는 도서와 저자 리스트 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/144854)        | JOIN          |
 
 </details>
