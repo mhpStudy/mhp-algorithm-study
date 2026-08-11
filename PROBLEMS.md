@@ -203,7 +203,7 @@
 
 </details>
 
-<details id="this-week" open>
+<details>
 <summary> [week14] 8월 2주차 (26.08.07 ~ 26.08.14) </summary>
 
 | 난이도   |    번호 | 문제                                                                       | 설명                   |
@@ -213,5 +213,19 @@
 | Lv. 3 | 43163 | [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163) | 깊이/너비 우선 탐색(DFS/BFS) |
 | Lv. 2 |  59412 | [입양 시각 구하기(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59412)                   | GROUP BY      |
 | Lv. 2 | 144854 | [조건에 맞는 도서와 저자 리스트 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/144854)        | JOIN          |
+
+</details>
+
+<details id="this-week" open>
+<summary> [week15] 8월 3주차 (26.08.14 ~ 26.08.21) </summary>
+
+| 난이도   |    번호 | 문제                                                                       | 설명                   |
+|:------|------:|:-------------------------------------------------------------------------|:---------------------|
+| Lv. 1 | 42840 | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840) | 완전탐색 |
+| Lv. 2 | 42839 | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839) | 완전탐색 |
+| Lv. 2 | 87946 | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | 완전탐색 |
+| Lv. 2 |  12914 | [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)             | 연습문제        
+| Lv. 2 | 133026 | [성분으로 구분한 아이스크림 총 주문량](https://school.programmers.co.kr/learn/courses/30/lessons/133026)          | GROUP BY      |
+| Lv. 2 | 131533 | [상품 별 오프라인 매출 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131533)              | JOIN          |
 
 </details>
