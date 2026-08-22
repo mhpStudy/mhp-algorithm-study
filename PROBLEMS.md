@@ -216,7 +216,7 @@
 
 </details>
 
-<details id="this-week" open>
+<details>
 <summary> [week15] 8월 3주차 (26.08.14 ~ 26.08.21) </summary>
 
 | 난이도   |    번호 | 문제                                                                       | 설명                   |
@@ -227,5 +227,19 @@
 | Lv. 2 |  12914 | [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)             | 연습문제        
 | Lv. 2 | 133026 | [성분으로 구분한 아이스크림 총 주문량](https://school.programmers.co.kr/learn/courses/30/lessons/133026)          | GROUP BY      |
 | Lv. 2 | 131533 | [상품 별 오프라인 매출 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131533)              | JOIN          |
+
+</details>
+
+
+<details id="this-week" open>
+<summary> [week16] 8월 4주차 (26.08.21 ~ 26.08.29) </summary>
+
+| 난이도   |   번호 | 문제                                                                     | 설명                         |
+|:------|-----:|:-----------------------------------------------------------------------|:---------------------------|
+| Lv. 2 | 12980 | [점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980) | Summer/Winter Coding(~2018) |
+| Lv. 2 | 468372 | [리프 노드 수 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/468372) | 2025 카카오 하반기 1차 |
+| Lv. 4 | 1843 | [사칙연산](https://school.programmers.co.kr/learn/courses/30/lessons/1843) | 동적계획법(Dynamic Programming) |
+| Lv. 3 | 144855 | [카테고리 별 도서 판매량 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144855)            | GROUP BY      |
+| Lv. 3 | 131113 | [조건별로 분류하여 주문상태 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131113)           | String, Date  |
 
 </details>
