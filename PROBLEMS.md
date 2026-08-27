@@ -231,8 +231,8 @@
 </details>
 
 
-<details id="this-week" open>
-<summary> [week16] 8월 4주차 (26.08.21 ~ 26.08.29) </summary>
+<details>
+<summary> [week16] 8월 4주차 (26.08.21 ~ 26.08.28) </summary>
 
 | 난이도   |   번호 | 문제                                                                     | 설명                         |
 |:------|-----:|:-----------------------------------------------------------------------|:---------------------------|
@@ -242,4 +242,17 @@
 | Lv. 3 | 144855 | [카테고리 별 도서 판매량 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144855)            | GROUP BY      |
 | Lv. 3 | 131113 | [조건별로 분류하여 주문상태 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131113)           | String, Date  |
 
+</details>
+
+
+<details id="this-week" open>
+<summary> [week17] 9월 1주차 (26.08.28 ~ 26.09.04) </summary>
+
+| 난이도   |     번호 | 문제                                                                              | 설명                           |
+|:------|-------:|:--------------------------------------------------------------------------------|:-----------------------------|
+| Lv. 2 |  12978 | [배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978)           | Summer/Winter Coding(~2018)  |
+| Lv. 3 | 72413 | [합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413) | 2021 KAKAO BLIND RECRUITMENT |
+| Lv. 3 | 118669 | [등산코스 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/118669) | 2022 KAKAO TECH INTERNSHIP |
+| Lv. 3 |  59043 | [있었는데요 없었습니다](https://school.programmers.co.kr/learn/courses/30/lessons/59043)              | JOIN         |
+| Lv. 3 | 157341 | [대여 기록이 존재하는 자동차 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157341) | String, Date |
 </details>
