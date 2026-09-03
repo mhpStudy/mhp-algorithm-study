@@ -245,7 +245,7 @@
 </details>
 
 
-<details id="this-week" open>
+<details>
 <summary> [week17] 9월 1주차 (26.08.28 ~ 26.09.04) </summary>
 
 | 난이도   |     번호 | 문제                                                                              | 설명                           |
@@ -255,4 +255,16 @@
 | Lv. 3 | 118669 | [등산코스 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/118669) | 2022 KAKAO TECH INTERNSHIP |
 | Lv. 3 |  59043 | [있었는데요 없었습니다](https://school.programmers.co.kr/learn/courses/30/lessons/59043)              | JOIN         |
 | Lv. 3 | 157341 | [대여 기록이 존재하는 자동차 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157341) | String, Date |
+
+</details>
+
+<details id="this-week" open>
+<summary> [week18] 9월 2주차 (26.09.04 ~ 26.09.11) </summary>
+
+| 난이도   |     번호 | 문제                                                                              | 설명                           |
+|:------|-------:|:--------------------------------------------------------------------------------|:-----------------------------|
+| Lv. 3 | 118668 | [코딩 테스트 공부](https://school.programmers.co.kr/learn/courses/30/lessons/118668) | 2022 KAKAO TECH INTERNSHIP |
+| Lv. 2 | 131120 | [3월에 태어난 여성 회원 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131120)   | SELECT       |
+| Lv. 3 |  59044 | [오랜 기간 보호한 동물(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59044)          | JOIN         |
+
 </details>
