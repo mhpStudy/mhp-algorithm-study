@@ -258,7 +258,7 @@
 
 </details>
 
-<details id="this-week" open>
+<details>
 <summary> [week18] 9월 2주차 (26.09.04 ~ 26.09.11) </summary>
 
 | 난이도   |     번호 | 문제                                                                              | 설명                           |
@@ -266,5 +266,16 @@
 | Lv. 3 | 118668 | [코딩 테스트 공부](https://school.programmers.co.kr/learn/courses/30/lessons/118668) | 2022 KAKAO TECH INTERNSHIP |
 | Lv. 2 | 131120 | [3월에 태어난 여성 회원 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131120)   | SELECT       |
 | Lv. 3 |  59044 | [오랜 기간 보호한 동물(1)](https://school.programmers.co.kr/learn/courses/30/lessons/59044)          | JOIN         |
+
+</details>
+
+<details id="this-week" open>
+<summary> [week19] 9월 5주차 (26.09.25 ~ 26.10.02) </summary>
+
+| 난이도   |   번호 | 문제                                                                          | 설명                   |
+|:------|-----:|:----------------------------------------------------------------------------|:---------------------|
+| Lv. 2 | 1844 | [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | 깊이/너비 우선 탐색(DFS/BFS) |
+| Lv. 3 | 164668 | [조건에 맞는 사용자와 총 거래금액 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164668) | GROUP BY     |
+| Lv. 2 | 284530 | [연도 별 평균 미세먼지 농도 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284530)    | String, Date |
 
 </details>
